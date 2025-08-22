@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" height="150" alt="download" src="https://github.com/user-attachments/assets/057f8925-2dfc-4ac6-bc26-5ccfd980512f" />
+  <img width="150" height="150" alt="download" src="https://github.com/user-attachments/assets/3b39d500-8d72-4a14-ac1f-eea5ff1b0c87" />
   <h1>SoundID</h1>
   <h3>🎶 Identify Any Song Or Audio Instantly with AI</h3>
 
